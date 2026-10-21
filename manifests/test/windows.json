@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "target": "test",
+  "platform": "windows",
+  "channel": "stable",
+  "version": "1.3.27",
+  "fileName": "SignTempo-Player-Windows-x64-v1.3.27.zip",
+  "fileSize": 118989882,
+  "sha256": "2a8ddff9ead8bcd81058a3ef42f24855bd4e07c2088ebc1f3232e6886f3b4a64",
+  "staticUrl": "https://github.com/SignTempo/player-releases/releases/download/player-test-windows-v1.3.27/SignTempo-Player-Windows-x64-v1.3.27.zip",
+  "sourceRepository": "SignTempo/euroscreen-artistry",
+  "sourceSha": "082b427c244fc26f9d2871b611b12a2067c6b6f7",
+  "publishedAt": "2026-10-20T10:19:00Z"
+}
