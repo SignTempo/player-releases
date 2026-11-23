@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "target": "live",
+  "platform": "android",
+  "channel": "stable",
+  "version": "1.1.8",
+  "versionCode": 8,
+  "fileName": "SignTempo-Player-1.1.8-universal.apk",
+  "fileSize": 624891,
+  "sha256": "493f1954d60037380325899bf68d9e56a453a569201da29faa9f337fcbc28290",
+  "staticUrl": "https://github.com/SignTempo/player-releases/releases/download/player-live-android-v1.1.8/SignTempo-Player-1.1.8-universal.apk",
+  "sourceRepository": "SignTempo/euroscreen-artistry",
+  "sourceSha": "62a009214b88b8318dfb1b2a5c948c1d94254724",
+  "publishedAt": "2026-11-23T14:03:28.071Z"
+}
