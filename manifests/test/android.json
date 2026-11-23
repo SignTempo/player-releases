@@ -3,13 +3,13 @@
   "target": "test",
   "platform": "android",
   "channel": "stable",
-  "version": "1.1.6",
-  "versionCode": 6,
-  "fileName": "SignTempo-Player-1.1.6-universal.apk",
+  "version": "1.1.7",
+  "versionCode": 7,
+  "fileName": "SignTempo-Player-1.1.7-universal.apk",
   "fileSize": 624879,
-  "sha256": "c001344fbb73d283824dd24cde34e9838d66bb7b2798c05d1c44bef0fb1071c4",
-  "staticUrl": "https://github.com/SignTempo/player-releases/releases/download/player-test-android-v1.1.6/SignTempo-Player-1.1.6-universal.apk",
+  "sha256": "d13ce46dc0d301298fc239ed6e29b0d5ddc90b8cc2aab6e7748d7e7b6deaef8d",
+  "staticUrl": "https://github.com/SignTempo/player-releases/releases/download/player-test-android-v1.1.7/SignTempo-Player-1.1.7-universal.apk",
   "sourceRepository": "SignTempo/euroscreen-artistry",
-  "sourceSha": "c39ba7b65dcdde27a27f24affb2c898b5f65b2e6",
-  "publishedAt": "2026-11-23T11:57:21.511Z"
+  "sourceSha": "40ca83a0e365e5195b30a0db972052c6c6f3afd7",
+  "publishedAt": "2026-11-23T12:22:57.500Z"
 }
