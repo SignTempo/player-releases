@@ -3,12 +3,12 @@
   "target": "live",
   "platform": "windows",
   "channel": "stable",
-  "version": "1.4.7",
-  "fileName": "SignTempo-Player-Windows-x64-v1.4.7.zip",
-  "fileSize": 118996548,
-  "sha256": "3694f27847a8d670b2ead5d2954de1cdc9abc83822eec76dcc9c4b09670384e5",
-  "staticUrl": "https://github.com/SignTempo/player-releases/releases/download/player-live-windows-v1.4.7/SignTempo-Player-Windows-x64-v1.4.7.zip",
+  "version": "1.4.8",
+  "fileName": "SignTempo-Player-Windows-x64-v1.4.8.zip",
+  "fileSize": 118997264,
+  "sha256": "59b63e0a4f373951dd29ed00d3956d5bbae175d2a7801b3c83f80bbbbaa62ff8",
+  "staticUrl": "https://github.com/SignTempo/player-releases/releases/download/player-live-windows-v1.4.8/SignTempo-Player-Windows-x64-v1.4.8.zip",
   "sourceRepository": "SignTempo/euroscreen-artistry",
-  "sourceSha": "325b0bfb5f974716d74c9d367437073d3cabba40",
-  "publishedAt": "2026-11-23T13:15:55.881Z"
+  "sourceSha": "6bb3e6bfb6ad5a8fed8b385749618a0e7b16c166",
+  "publishedAt": "2026-11-24T10:14:20.567Z"
 }
