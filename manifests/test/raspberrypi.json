@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "target": "test",
+  "platform": "raspberrypi",
+  "channel": "stable",
+  "version": "1.3.33",
+  "fileName": "signtempo-player_1.3.33_all.deb",
+  "fileSize": 26776,
+  "sha256": "61d5d1ff0c3220784da63ef1b5c1e3de8bcb1d3962390d190c7975a3724f4d5b",
+  "staticUrl": "https://github.com/SignTempo/player-releases/releases/download/player-test-raspberrypi-v1.3.33/signtempo-player_1.3.33_all.deb",
+  "sourceRepository": "SignTempo/euroscreen-artistry",
+  "sourceSha": "3d577dc640be0cb43b80316b789714f30034c70a",
+  "publishedAt": "2026-11-25T12:29:59.616Z"
+}
