@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "target": "test",
+  "platform": "webos",
+  "channel": "stable",
+  "version": "1.2.0",
+  "fileName": "com.signtempo.player_1.2.0_all.ipk",
+  "fileSize": 21058,
+  "sha256": "8456fcc28751969ad1e1f9464c061559a3a465f6fce9f0b5ba4cd4ba51ef486c",
+  "staticUrl": "https://github.com/SignTempo/player-releases/releases/download/player-test-webos-v1.2.0/com.signtempo.player_1.2.0_all.ipk",
+  "sourceRepository": "SignTempo/euroscreen-artistry",
+  "sourceSha": "76b7bf89b2284b07485789b68143924ccd3f834e",
+  "publishedAt": "2026-11-27T20:51:08.605Z"
+}
